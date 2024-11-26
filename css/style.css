@@ -20,7 +20,7 @@ body {
   font-family: "Open Sans", sans-serif;
   /* Weights: 400 */
   background-color: var(--violte);
-  background-image: url(/img/bg-desktop.svg);
+  background-image: url(../img/bg-desktop.svg);
   background-repeat: no-repeat;
   background-size: 80%;
   max-height: 100vh;
@@ -121,7 +121,7 @@ footer {
 
 @media (max-width: 800px) {
   body {
-    background-image: url(/img/bg-mobile.svg);
+    background-image: url(../img/bg-mobile.svg);
     background-size: 100%;
   }
   .hero-section {
